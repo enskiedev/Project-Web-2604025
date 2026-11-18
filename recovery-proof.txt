@@ -1,0 +1,4 @@
+Nama : [Rendra Oski Wandi]
+NIM : [2604025]
+Bukti : Project berhasil dipulihkan dari remote repository.
+Penjelasan : File ini dibuat dari working copy hasil clone pada Pertemuan 4.
