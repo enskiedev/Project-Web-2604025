@@ -4,7 +4,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    color: #1f2937;
+    color: #8b1e3f;
     background: #f5f7fa;
     line-height: 1.6;
 }
@@ -22,7 +22,7 @@ main {
 h1,
 h2,
 h3 {
-    color: #17365d;
+    color: #c00000;
     line-height: 1.2;
 }
 h1 {
@@ -38,7 +38,7 @@ p {
 }
 
 header {
-    background: #17365d;
+    background: #640000;
     color: white;
     padding: 2rem 4%;
 }
@@ -51,7 +51,7 @@ nav {
     border-bottom: 1px solid #dbe2ea;
 }
 nav a {
-    color: #17365d;
+    color: #c00000;
     font-weight: 700;
     text-decoration: none;
     margin-right: 1rem;
@@ -83,7 +83,7 @@ section p {
 }
 
 .note {
-    border-left: 4px solid #17365d;
+    border-left: 4px solid #8b1e3f;
 }
 
 .note {
