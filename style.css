@@ -1,10 +1,6 @@
 * {
     box-sizing: border-box;
-<<<<<<< HEAD
     scroll-behavior:smooth;
-=======
-    scroll-behavior: smooth;
->>>>>>> 30387fe5b2fb7cbb31ef8b8296d0e457971f93f5
 }
 body {
     margin: 0;
